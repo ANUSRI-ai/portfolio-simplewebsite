@@ -19,7 +19,7 @@ This is a simple portfolio website created using HTML and basic CSS. It showcase
 # How to View
 
     1. Clone or download the repository.
-    2. Open the [link] file in a browser to view the portfolio.
+    2. Open the [A.html] file in a browser to view the portfolio.
 
 
     Thank you for visiting my portfolio website
